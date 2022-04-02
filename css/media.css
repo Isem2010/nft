@@ -1,0 +1,30 @@
+@media (max-width:375px) {
+    .wrapper {
+        width: 327px;
+        height: 543px;
+    }
+    .bg-img-nft {
+        width: 275px;
+        height: 275px;
+    }
+    .bg-img-nft-color {
+        width: 275px;
+        height: 275px;
+    }
+    .title {
+        width: 278px;
+        margin-bottom: 12px;
+    }
+    .text {
+        width: 278px;
+        margin-bottom: 16px;
+    }
+    .info {
+        width: 278px;
+        font-size: 15px;
+        line-height: 19px;
+    }
+    .creator {
+        width: 278px;
+    }
+}
